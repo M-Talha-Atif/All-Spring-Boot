@@ -1,0 +1,3 @@
+7f60a61bffd3d083a9226e96fa406ae3
+
+Weather api key

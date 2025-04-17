@@ -1,0 +1,13 @@
+Folder Format of Spring Boot App:
+
+audit
+config
+constants
+controllers
+dto
+entities
+exceptions
+mapper
+repositories
+security
+services (inside it impl folder, validation folder as well)

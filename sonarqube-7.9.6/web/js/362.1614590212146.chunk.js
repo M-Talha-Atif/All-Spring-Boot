@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[362],{696:function(n,t,e){"use strict";e.r(t),e.d(t,"default",function(){return a});var o=e(801);function a(){var n=Object(o.a)(),t=window.location.pathname+window.location.search+window.location.hash;n.replace({pathname:"/sessions/new",query:{return_to:t}})}},801:function(n,t,e){"use strict";e.d(t,"a",function(){return i});var o,a=e(707),r=e(1255);function i(){return o||(o=Object(a.useRouterHistory)(r.createHistory)({basename:window.baseUrl}))}}}]);
+//# sourceMappingURL=362.1614590212146.chunk.js.map

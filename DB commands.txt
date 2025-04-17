@@ -1,0 +1,5 @@
+create database budget_tracker;
+drop database budget_tracker;
+
+use budget_tracker;
+select * from user_roles;

@@ -1,0 +1,43 @@
+HTTP vs HTTPS
+Cookies and Sessions
+Status Codes
+Verbs (Put,Post,Get,Patch,Delete)
+IOC container
+Dependency Injection
+Security JWT
+CRUD with MongoDB
+Sorting and Filtering with MongoDb
+Redis Attach
+Working with External API
+Swagger Integration
+Annotations working
+Application.properties/yaml
+Debugging -> Logging
+Password Encryption -> BCrypt
+Stripe Integration 
+Polling Overview, WebHook
+
+--------
+Java Basics
+Java 8 Lambda Expression, Functional Interface
+Java Collections 
+Java MultiThreading (Runnable interface, Thread class implement)
+
+------
+OOP pillars
+Inheritance, Composition
+Overloading, Overriding
+Abstract Class, Interface
+Gorilla Class (a class managing connections, displaying view, handling external apis, background processes)
+
+
+----
+Spring Boot Mock Interview
+Youtube
+
+
+
+-----------
+
+
+

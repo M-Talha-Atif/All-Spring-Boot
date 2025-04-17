@@ -1,0 +1,8 @@
+Cloud Fare Stack (for simpler projects)
+Real time communication (latency, frequency, etc things) (EC2)
+NPM Packages
+Video processing
+Image processing
+Startup Clone
+CLI ToolKIT
+
